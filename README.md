@@ -2,6 +2,9 @@
 
 A simple Pomodoro timer application to help improve productivity by using the Pomodoro Technique.
 
+## Live Preview
+https://pomodoro-timer-delta-rust.vercel.app/
+
 ## Features
 
 - Start, pause, and reset timer
